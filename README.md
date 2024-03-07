@@ -11,3 +11,9 @@
 
 ![scenario3](https://github.com/Kims0ngmin/only_UI/blob/main/scenario/scenario3.png)
 3. {X, Y, Z, Reference, Helper, Measure} 버튼으로 선 긋기, 각 버튼으로 선 그을 시 출력창으로 [Start point, End point, Pixel length] 출력
+
+![scenario4](https://github.com/Kims0ngmin/only_UI/blob/main/scenario/scenario4.png)
+4. 값 입력
+
+![scenario5](https://github.com/Kims0ngmin/only_UI/blob/main/scenario/scenario5.png)
+5. 최종
